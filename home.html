@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Le Panier</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <section id="section-articles" class="section-articles">
+      <!-- Les aricles ici -->
+    </section>
+    <section id="section-panier" class="section-panier">
+      <h2>PANIER D'ACHATS</h2>
+      <article class="article-list">
+        <table>
+          <colgroup>
+            <col class="col1" />
+            <col class="col2" />
+            <col class="col3" />
+            <col class="col4" />
+            <col class="col5" />
+          </colgroup>
+          <thead>
+            <tr>
+              <th>Articles</th>
+              <th>Quantité</th>
+              <th>Prix Unitaire</th>
+              <th>Sous-Total</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="adding-article-in-panier">
+            <!-- Les elements de panier ici -->
+          </tbody>
+        </table>
+      </article>
+      <h3>Recapitulatif de la Commande</h3>
+      <form action="">
+        <br />
+        <label for="nbr-product">Nombre de produit(s) : </label>
+        <span id="nbr-product"></span>
+        <br />
+        <br />
+        <label for="total-reduction">Total avant réduction : </label>
+        <span id="total-reduction">Encore 200€ pour bénéficier des 5%</span>
+        <br />
+        <br />
+        <label for="reduction">Réduction : </label>
+        <span id="reduction"></span>
+        <br />
+        <br />
+        <label for="total-payer">Net à payer : </label>
+        <span id="total-payer"></span>
+      </form>
+    </section>
+    <script src="./js/utils.js"></script>
+    <!-- <script src="./js/home.js"></script> -->
+    <script src="./js/articleEvents.js"></script>
+  </body>
+</html>

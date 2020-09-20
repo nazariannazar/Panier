@@ -1,0 +1,92 @@
+[
+  {
+    "idProduit": 1,
+    "nomProduit": "Tablette SAMSUNG 10\", WiFi, 800 x 1280, 2Go, 32Go",
+    "imageProduit": "./img/tablette/1-tablette-tactile samsung-t106-10-1.jpg",
+    "prixProduit": 189
+  },
+  {
+    "idProduit": 2,
+    "nomProduit": "Tablette BEISTA 10.5\", WiFi, 920 x 1200, 3Go, 64Go",
+    "imageProduit": "./img/tablette/2-tablette-tactile-10-1-pouces-winnovo-t10-android-9.jpg",
+    "prixProduit": 159
+  },
+  {
+    "idProduit": 3,
+    "nomProduit": "Tablette HUAWEI 10.1\", 4G, WiFi, 1920 x 1200, 4Go, 128Go",
+    "imageProduit": "./img/tablette/3-4g-tablette-tactile-10-pouces-yunken-y108-androi.jpg",
+    "prixProduit": 889
+  },
+  {
+    "idProduit": 4,
+    "nomProduit": "Tablette iPAD  10.1\", 4G, WiFi, 920 x 1200, 3Go, 128Go",
+    "imageProduit": "./img/tablette/4-tablette-tactile-10-1-pouces-android-tablettes-ave.jpg",
+    "prixProduit": 599.99
+  },
+  {
+    "idProduit": 5,
+    "nomProduit": "Tablette TEENO 9\", WiFi, 1280 x 800, 4Go, 64Go",
+    "imageProduit": "./img/tablette/5-tablette-tactile-10-1-pouces-android-7-0-teeno-ave.jpg",
+    "prixProduit": 139.99
+  },
+  {
+    "idProduit": 6,
+    "nomProduit": "Tablette iPAD  10.5\", 920 x 1200, 4Go, 32Go",
+    "imageProduit": "./img/tablette/6-tablette-tactile-ordinateur-portable-2-en-1-ecran.jpg",
+    "prixProduit": 69.96
+  },
+  {
+    "idProduit": 7,
+    "nomProduit": "APPLE iPhone 11 Noir 128Go 6.1\"",
+    "imageProduit": "./img/mobile/1-apple-iphone-11-noir-128-go.jpg",
+    "prixProduit": 1025.9
+  },
+  {
+    "idProduit": 8,
+    "nomProduit": "HUAWEI P40 Lite Jenny Noir 128Go 5.8\"",
+    "imageProduit": "./img/mobile/2-huawei-p40-lite-jenny-midnight-black-128-go-servi.jpg",
+    "prixProduit": 699.99
+  },
+  {
+    "idProduit": 9,
+    "nomProduit": "Samsung Galaxy A10 Gris 32Go 5\"",
+    "imageProduit": "./img/mobile/3-samsung-galaxy-a10-32-go-noir-double-sim.jpg",
+    "prixProduit": 159.5
+  },
+  {
+    "idProduit": 10,
+    "nomProduit": "Smartphone Blackview Noir 64Go 5.7\"",
+    "imageProduit": "./img/mobile/4-smartphone-blackview-bv6800-pro-64go-jaune.jpg",
+    "prixProduit": 132.6
+  },
+  {
+    "idProduit": 11,
+    "nomProduit": "APPLE iPhone 8 Gris 64Go  5.8\"",
+    "imageProduit": "./img/mobile/5-iphone-8-64-go-gris-sideral-reconditionne-comme.jpg",
+    "prixProduit": 245
+  },
+  {
+    "idProduit": 12,
+    "nomProduit": "Smartphone Blackview A60 Rouge 16Go 6.1\"",
+    "imageProduit": "./img/mobile/6-blackview-a60-smartphone-pas-cher-16-go-6-1-ecran.jpg",
+    "prixProduit": 89.99
+  },
+  {
+    "idProduit": 13,
+    "nomProduit": "ESS® ePods Noir ES5 Pro",
+    "imageProduit": "./img/ecouteur/1-ess-r-epods-noir-es5-pro-ecouteur-bluetooth-lux.jpg",
+    "prixProduit": 40.95
+  },
+  {
+    "idProduit": 14,
+    "nomProduit": "APPLE Écouteurs sans fil",
+    "imageProduit": "./img/ecouteur/2-apple-ecouteurs-sans-fil-airpods-2-boitier-de-ch.jpg",
+    "prixProduit": 69.99
+  },
+  {
+    "idProduit": 15,
+    "nomProduit": "Samsung EHS64AVFWE",
+    "imageProduit": "./img/ecouteur/3-samsung-ehs64avfwe-ecouteur-intra-auriculaire.jpg",
+    "prixProduit": 6.5
+  }
+]
